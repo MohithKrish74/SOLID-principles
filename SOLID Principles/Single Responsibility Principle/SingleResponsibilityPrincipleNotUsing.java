@@ -1,6 +1,6 @@
 package com.keyword;
 
-class SalesOrder
+class SalesOrder        //Class SalesOrder containing multiple functions.This does not follow Single Responsibility Principle
 {
     public void salesOrder()
     {
