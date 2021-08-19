@@ -1,5 +1,6 @@
 package com.keyword;
 
+
 interface PaymentType
 {
     public void processPayment();
