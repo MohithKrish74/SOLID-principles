@@ -1,5 +1,6 @@
 package com.keyword;
 
+
 class Payment
 {
     public void paymentProcessing(int amount , String mode)
