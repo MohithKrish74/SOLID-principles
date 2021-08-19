@@ -16,6 +16,7 @@ class SalesOrder        //Class SalesOrder containing multiple functions.This do
     }
 }
 
+
 public class SingleResponsibilityPrincipleNotUsing
 {
     public static void main(String[] args)
